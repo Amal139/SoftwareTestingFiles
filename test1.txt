@@ -1,0 +1,5 @@
+Git helps teams work on the same project without conflicts.
+I can use commit messages to describe what I changed.
+A remote repository is stored on GitHub.
+Local repositories are on my computer.
+Syncing my local and remote repositories keeps everything updated.
