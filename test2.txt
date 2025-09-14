@@ -1,0 +1,5 @@
+The command 'git push origin main' pushes code to the main branch on GitHub.
+It does not save any connection for future pushes.
+The command 'git push -u origin main' also pushes code to GitHub.
+But it sets up a link between your local and remote branches.
+After using '-u' once, you can just type 'git push' next time.
